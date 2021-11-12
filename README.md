@@ -13,3 +13,5 @@ If you experience an issue whilst running or compiling Ptero-VM in a JAR, please
 
 ### Contributing
 Contributions are always welcome, feel free to open Pull Requests to contribute, or even consider starring the project, that also helps!
+
+##### This project was made for educational purposes only and I, or the Ptero-VM creator shall not be held accountable for anything this project is used for.
