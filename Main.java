@@ -36,7 +36,7 @@ class Main {
             } else {
                     System.out.print("\033[H\033[2J");
                     System.out.flush();
-                    System.out.println((char) 27 + "[31m" + "An error has occurerd whilst trying to download Installer.sh.");
+                    System.out.println((char) 27 + "[31m" + "An error has occurred whilst trying to download Installer.sh.");
                     System.out.println("\n\n");
                     System.out.println("The hosting service you are currently using has blocked the Installer.sh download link.");
                     System.out.println();
